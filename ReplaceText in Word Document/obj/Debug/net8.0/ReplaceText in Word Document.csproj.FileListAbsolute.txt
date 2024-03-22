@@ -1,0 +1,21 @@
+D:\na\ReplaceText in Word Document\ReplaceText in Word Document\bin\Debug\net8.0\ReplaceText in Word Document.exe
+D:\na\ReplaceText in Word Document\ReplaceText in Word Document\bin\Debug\net8.0\ReplaceText in Word Document.deps.json
+D:\na\ReplaceText in Word Document\ReplaceText in Word Document\bin\Debug\net8.0\ReplaceText in Word Document.runtimeconfig.json
+D:\na\ReplaceText in Word Document\ReplaceText in Word Document\bin\Debug\net8.0\ReplaceText in Word Document.dll
+D:\na\ReplaceText in Word Document\ReplaceText in Word Document\bin\Debug\net8.0\ReplaceText in Word Document.pdb
+D:\na\ReplaceText in Word Document\ReplaceText in Word Document\bin\Debug\net8.0\Syncfusion.Compression.Portable.dll
+D:\na\ReplaceText in Word Document\ReplaceText in Word Document\bin\Debug\net8.0\Syncfusion.DocIO.Portable.dll
+D:\na\ReplaceText in Word Document\ReplaceText in Word Document\bin\Debug\net8.0\Syncfusion.Licensing.dll
+D:\na\ReplaceText in Word Document\ReplaceText in Word Document\bin\Debug\net8.0\Syncfusion.OfficeChart.Portable.dll
+D:\na\ReplaceText in Word Document\ReplaceText in Word Document\obj\Debug\net8.0\ReplaceText in Word Document.csproj.AssemblyReference.cache
+D:\na\ReplaceText in Word Document\ReplaceText in Word Document\obj\Debug\net8.0\ReplaceText in Word Document.GeneratedMSBuildEditorConfig.editorconfig
+D:\na\ReplaceText in Word Document\ReplaceText in Word Document\obj\Debug\net8.0\ReplaceText in Word Document.AssemblyInfoInputs.cache
+D:\na\ReplaceText in Word Document\ReplaceText in Word Document\obj\Debug\net8.0\ReplaceText in Word Document.AssemblyInfo.cs
+D:\na\ReplaceText in Word Document\ReplaceText in Word Document\obj\Debug\net8.0\ReplaceText in Word Document.csproj.CoreCompileInputs.cache
+D:\na\ReplaceText in Word Document\ReplaceText in Word Document\obj\Debug\net8.0\ReplaceText in Word Document.sourcelink.json
+D:\na\ReplaceText in Word Document\ReplaceText in Word Document\obj\Debug\net8.0\ReplaceText in Word Document.csproj.CopyComplete
+D:\na\ReplaceText in Word Document\ReplaceText in Word Document\obj\Debug\net8.0\ReplaceText in Word Document.dll
+D:\na\ReplaceText in Word Document\ReplaceText in Word Document\obj\Debug\net8.0\refint\ReplaceText in Word Document.dll
+D:\na\ReplaceText in Word Document\ReplaceText in Word Document\obj\Debug\net8.0\ReplaceText in Word Document.pdb
+D:\na\ReplaceText in Word Document\ReplaceText in Word Document\obj\Debug\net8.0\ReplaceText in Word Document.genruntimeconfig.cache
+D:\na\ReplaceText in Word Document\ReplaceText in Word Document\obj\Debug\net8.0\ref\ReplaceText in Word Document.dll
